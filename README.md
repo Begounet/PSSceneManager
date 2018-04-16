@@ -1,4 +1,4 @@
-# PS Scene Manager 
+# PS Scene Manager
 
 ## Presentation
 Allow to quickly save/load (and auto-load) scenes in the editor and in build.
