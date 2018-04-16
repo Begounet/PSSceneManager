@@ -12,3 +12,7 @@ Allow to quickly save/load (and auto-load) scenes in the editor and in build.
 * If you click "Restore scenes", it will load your last save.
 * If you go to another scene and come back later, the scenes will be automatically loaded. 
 	However, if you load the same scene again, the other scenes will not be loaded. Useful if you want to get your scene alone.
+	
+## Link
+
+GitHub : https://github.com/Begounet/PSSceneManager
